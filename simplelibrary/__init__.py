@@ -1,3 +1,4 @@
-__version__ = '0.1.0'
+__version__ = '1.1.0'
 
 print('I am getting invoked')
+
